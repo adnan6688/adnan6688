@@ -116,7 +116,7 @@ I regularly practice Data Structures and Algorithms.
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=adnan6688&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adnan6688&theme=tokyonight&hide_border=true" />
 </p>
 <!-- FOOTER BANNER -->
 <p align="center">
