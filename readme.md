@@ -75,7 +75,7 @@ I regularly practice Data Structures and Algorithms.
 </p>
 
 <p>
-🔗 LeetCode: <a href="#">Add your link</a>
+🔗 LeetCode: <a href="https://leetcode.com/u/Golam_Faruk_Adnan/">Add your link</a>
 </p>
 
 ---
