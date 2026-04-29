@@ -1,12 +1,11 @@
 <!-- TOP BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Golam%20Faruk%20Adnan&fontSize=35&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Full%20Stack%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h1 align="center">Golam Faruk Adnan</h1>
 
 <p align="center">
-  <b>Full Stack Developer</b><br/>
   Building scalable, maintainable, and production-ready applications
 </p>
 
@@ -16,7 +15,6 @@
   <a href="#">LeetCode</a> •
   <a href="#">Email</a>
 </p>
-
 ---
 
 <!-- TECH LOGOS -->
