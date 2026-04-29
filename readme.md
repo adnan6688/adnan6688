@@ -92,7 +92,7 @@ I regularly practice Data Structures and Algorithms.
 
 <p>
 📧 Email: <a href="#">Add your email</a><br/>
-💼 LinkedIn: <a href="#">Add your LinkedIn</a><br/>
+💼 LinkedIn: <a href="https://www.linkedin.com/in/golam-faruk-adnan/">Add your LinkedIn</a><br/>
 📘 Facebook: <a href="#">Add your Facebook</a>
 </p>
 
