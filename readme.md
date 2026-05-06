@@ -75,7 +75,7 @@ I regularly practice Data Structures and Algorithms.
 </p>
 
 <p>
-🔗 LeetCode: <a href="https://leetcode.com/u/Golam_Faruk_Adnan/">Add your link</a>
+ LeetCode: <a href="https://leetcode.com/u/Golam_Faruk_Adnan/">Add your link</a>
 </p>
 
 ---
@@ -83,7 +83,7 @@ I regularly practice Data Structures and Algorithms.
 <h2>Portfolio</h2>
 
 <p>
-🌐 Website: <a href="#">Add your portfolio link</a>
+ Website: <a href="#">Add your portfolio link</a>
 </p>
 
 ---
@@ -91,9 +91,9 @@ I regularly practice Data Structures and Algorithms.
 <h2>Contact</h2>
 
 <p>
-📧 Email: <a href="#">Add your email</a><br/>
-💼 LinkedIn: <a href="https://www.linkedin.com/in/golam-faruk-adnan/">Add your LinkedIn</a><br/>
-📘 Facebook: <a href="#">Add your Facebook</a>
+Email: <a href="#">Add your email</a><br/>
+LinkedIn: <a href="https://www.linkedin.com/in/golam-faruk-adnan/">Add your LinkedIn</a><br/>
+ Facebook: <a href="#">Add your Facebook</a>
 </p>
 
 ---
