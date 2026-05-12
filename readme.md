@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://adnan-beta.vercel.app/">Portfolio</a> •
+  <a href="https://adnan-beta.vercel.app/" target="_blank">Portfolio</a> •
   <a href="https://www.linkedin.com/in/golam-faruk-adnan/">LinkedIn</a> •
   <a target="_blank" href="https://leetcode.com/u/Golam_Faruk_Adnan/">LeetCode</a> •
   <a href="#">Email</a>
